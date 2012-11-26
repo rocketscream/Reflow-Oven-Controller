@@ -8,5 +8,5 @@ Newer files are not backward compatible with older version of Diptrace.
 - Please use the MAX31855 Library from Rocket Scream available from GitHub.
 4. For all hardware revision, please use the latest Arduino PID Library written
 by Brett Beauregard available for down load GitHub too.
-5. Comment necessary compiler flag in the sketch for use with different hardware
-revision.
+5. Uncomment necessary compiler flag in the sketch for use with different 
+hardware revision.
